@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **ANDROID**
 
-- 📫 How to reach me **anandachakma101@gmail.comm**
+- 📫 How to reach me **ronithebrand@gmail.com**
 
 - ⚡ Fun fact **I am Crazy**
 
