@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![Image](https://github.com/user-attachments/assets/ca886dec-d9bb-4e92-a019-b7075b4ce1d3)
 <h1 align="center">Hi 👋, I'm Soikat Chakma</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://33.media.tumblr.com/200ad5f83764f6213fc74be7fa034236/tumblr_nhuds8KcDA1tmr6sro1_500.gif">
